@@ -1,0 +1,10 @@
+AWS EC2 ,S3 , VPC , IAM ,EBS ,Elasti load balancer ,ALB (Host based routing and Path based routingwq
+/bin/
+
+
+
+asw fkjskacdl
+
+bashlkdklfmlkfksl 
+
+hjdafkajfklackams/bin/bash: line 1: wq: command not found

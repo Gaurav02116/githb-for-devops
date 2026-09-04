@@ -1,0 +1,15 @@
+
+
+AWS CONTROL TOWER 
+
+AWS Landing Zone -- A Landing Zone is a pre - configured, secure ,multi account AWS Environment that provides 
+
+Identity Managemnet 
+Networking 
+security
+Logging
+Compliance
+Account Structure
+
+
+
