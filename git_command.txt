@@ -1,4 +1,9 @@
-AWS EC2 ,S3 , VPC , IAM ,EBS ,Elasti load balancer ,ALB (Host based routing and Path based routingwq
+i
+
+
+
+
+WS EC2 ,S3 , VPC , IAM ,EBS ,Elasti load balancer ,ALB (Host based routing and Path based routingwq
 /bin/
 
 
@@ -7,4 +12,28 @@ asw fkjskacdl
 
 bashlkdklfmlkfksl 
 
+
+
+
 hjdafkajfklackams/bin/bash: line 1: wq: command not found
+
+
+git init
+
+git add . (commit all at a time)
+
+git add file name (on by one )
+
+git commit -m "any message normally we can write here the inc number or chnage number"
+
+
+git remote set-url origin https://github.com/Gaurav02116/githb-for-devops.git
+
+
+git remote add origin https://github.com/Gaurav02116/githb-for-devops.git
+
+git remote -v
+
+git push origin master
+
+
