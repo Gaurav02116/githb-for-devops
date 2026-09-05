@@ -1,4 +1,11 @@
-i
+git remote -v
+
+got remote set-url
+
+git push origin master 
+git add.
+
+git commit -m "this is for new commit after that we can push to the github"
 
 
 
