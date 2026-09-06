@@ -1,0 +1,21 @@
+github is importent and we need to practice all the command and about the real time environment
+
+git remote set-url
+
+git remote -v
+
+git push origin master 
+
+git remote add origin git@github.com:username/repo.git
+
+
+
+git remote set-url
+
+git remote -v
+
+git push origin master 
+
+git remote add origin git@github.com:username/repo.git
+
+
